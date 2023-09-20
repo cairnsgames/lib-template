@@ -1,13 +1,13 @@
 {
   "name": "@cairnsgames/templatelib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "keywords": [
     "react",
     "typescript",
     "tenant"
   ],
-  "author": "CairnsGames & William Cairns (cairnswm)",
+  "author": "",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cairnsgames/lib-template.git"
@@ -21,7 +21,6 @@
     "build:esm": "tsc",
     "build:cjs": "tsc --module commonjs --outDir dist/cjs"
   },
-  "author": "",
   "license": "ISC",
   "devDependencies": {
     "@types/react": "^18.2.22",
