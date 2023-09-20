@@ -1,7 +1,7 @@
 {
   "name": "@cairnsgames/templatelib",
   "version": "1.0.1",
-  "description": "",
+  "description": "Template for future libraries",
   "keywords": [
     "react",
     "typescript",
